@@ -382,8 +382,7 @@ docker run -p 5000:5000 insurance-claims-api
 
 ## 👨‍💻 Developer Information
 
-**Author:** PASTAyumz  
-**Repository:** [Assurance-vehicule-](https://github.com/PASTAyumz/Assurance-vehicule-)  
+**Author:** Doha Skouf
 **Language:** Python (Jupyter Notebook, Flask/FastAPI)  
 **Deployment:** REST API with MLOps Monitoring  
 **Last Updated:** 2026-04-30
